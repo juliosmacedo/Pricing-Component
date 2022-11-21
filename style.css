@@ -1,7 +1,7 @@
 body {
     height: 98vh;
     background-color: #F7F7FF;
-    background-image: url( '../images/bg-bottom.svg' ), url( '../images/bg-top.svg' ); 
+    background-image: url( './images/bg-bottom.svg' ), url( './images/bg-top.svg' ); 
     background-repeat: no-repeat;
     background-position: bottom left, top right;
 }
@@ -201,7 +201,7 @@ button {
     }
 
     body {
-        background-image: url( '../images/bg-top.svg' ); 
+        background-image: url( './images/bg-top.svg' ); 
         background-position: 11rem -6rem;
         width: -webkit-fill-available;
         display: flex;
